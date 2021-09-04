@@ -4,12 +4,17 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Red Hat Display', sans-serif;
+    color: hsl(224, 23%, 55%);
+    font-weight: 500;
 }
 
 p {
     font-size: 16px;
     width: 300px;
     text-align: center;
+    margin-bottom: 20px;
+    line-height: 1.5em;
+    color: hsl(224, 23%, 55%);
 }
 
 .background {
@@ -33,16 +38,71 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 450px;
+    width: 500px;
     background-color: white;
     border-radius: 20px;
     overflow: hidden;
+    margin-bottom: 10px;
 }
 
+.card > img {
+    background-color: cornflowerblue;
+    width: 100%;
+}
+
+
 .plan {
+    width: 310px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 30px;
     background-color: hsl(225, 100%, 98%);
-}   
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.plan a {
+    color: hsl(245, 75%, 52%);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+h1 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: hsl(223, 47%, 23%);
+}
+
+.price {
+    display: inline-block;
+    width: 95px;
+    margin-right: 90px;
+    margin-left: 20px;
+}
+
+.price h3 {
+    color: hsl(223, 47%, 23%);
+    margin-bottom: 7px;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.payment {
+    width: 310px;
+    background-color: hsl(245, 75%, 52%);
+    padding: 15px 30px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    box-shadow: 0 20px 20px #d4d4d4;
+}
+
+.cancel {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
