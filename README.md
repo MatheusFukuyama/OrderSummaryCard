@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MatheusFukuyama/OrderSummaryCard.git)
-- Live Site URL: [Add live site URL here](https://matheusfukuyama.github.io/OrderSummaryCard/)
+- [https://github.com/MatheusFukuyama/OrderSummaryCard.git](https://github.com/MatheusFukuyama/OrderSummaryCard.git)
+- [https://matheusfukuyama.github.io/OrderSummaryCard/](https://matheusfukuyama.github.io/OrderSummaryCard/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-This project helps me to remind how to use the :hover effect and I also some flex properties. Talking about new knowledge I learned structure a project, read the project design to produce a code and finally to write a readme to the project.
+This project helps me to remind how to use the :hover effect and I also some flex properties. Talking about new knowledge I learned structure a project, read the project design to produce a code, to write a readme to the project and finally what is a markdown.
 
 ### Continued development
 
@@ -52,11 +52,10 @@ I'm still want to improve my logic and also learn to write clean code, this proj
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) - This helped me to remind some of css features.
+- [W3schools](https://www.w3schools.com) - This helped me to remind some of css features.
 
 
 ## Author
 
-**- Website - [Add your name here](https://www.mathe.com)**
 - Frontend Mentor - [@MatheusFukuyama](https://www.frontendmentor.io/profile/MatheusFukuyama)
 
