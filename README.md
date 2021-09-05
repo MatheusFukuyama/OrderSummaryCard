@@ -16,7 +16,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -43,8 +42,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 This project helps me to remind how to use the :hover effect and I also some flex properties. Talking about new knowledge I learned structure a project, read the project design to produce a code and finally to write a readme to the project.
@@ -53,19 +50,13 @@ This project helps me to remind how to use the :hover effect and I also some fle
 
 I'm still want to improve my logic and also learn to write clean code, this project still can pass throght changes and refactoring while I get more knowledges.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Example resource 1](https://www.w3schools.com) - This helped me to remind some of css features.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 **- Website - [Add your name here](https://www.mathe.com)**
 - Frontend Mentor - [@MatheusFukuyama](https://www.frontendmentor.io/profile/MatheusFukuyama)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
