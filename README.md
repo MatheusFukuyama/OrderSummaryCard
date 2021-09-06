@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-This project helps me to remind how to use the :hover effect and I also some flex properties. Talking about new knowledge I learned structure a project, read the project design to produce a code, to write a readme to the project and finally what is a markdown.
+This project helps me to remind how to use the :hover effect and I also some flex properties. Talking about new knowledge I learned structure a project, read the project design to produce a code, to write a readme to the project, what is a markdowna and finally how to use landmarks.
 
 ### Continued development
 
@@ -51,8 +51,9 @@ I'm still want to improve my logic and also learn to write clean code, this proj
 
 ### Useful resources
 
-- [W3schools](https://www.w3schools.com) - This helped me to remind some of css features.
-
+- [https://www.w3schools.com](https://www.w3schools.com) - This helped me to remind some of css features.
+- [https://www.w3schools.com](https://www.w3schools.com) - This helped me to teach me how to use landmarks.
+- [https://dequeuniversity.com/rules/axe/4.2/landmark-one-main?application=axeAPI](https://dequeuniversity.com/rules/axe/4.2/landmark-one-main?application=axeAPI) - This site also helped me how to use and the importance landmarks.
 
 ## Author
 
